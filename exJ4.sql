@@ -3,7 +3,7 @@ select *
 from sessions;
 
 --2--
-select cid,cstitle
+select cid,cltitle
 from courses;
 
 --3--
